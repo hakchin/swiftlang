@@ -12,6 +12,7 @@ func getSum(a: Int){
       sum += i
   }
 print(sum)
+print(b)
 }
 
 getSum(200)
