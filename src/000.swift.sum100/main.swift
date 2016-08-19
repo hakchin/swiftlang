@@ -11,8 +11,8 @@ func getSum(a: Int){
   for i in 1 ..< a {
       sum += i
   }
-print(sum)
-print(b)
+  print(sum)
+  print(b)
 }
 
 getSum(200)
