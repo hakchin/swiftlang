@@ -19,4 +19,4 @@ func getSum(a: Int){
   print(b)
 }
 
-getSum(200)
+getSum(100)
