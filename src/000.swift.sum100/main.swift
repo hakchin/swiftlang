@@ -1,6 +1,10 @@
 let variable: String = "string"
+var test: String = "Hakchin Kim " + String(variable)
 print("Test \(variable)")
 print("Test", variable)
+print("Test variable")
+print(test)
+
 
 func getSum(a: Int){
   var sum: Int
