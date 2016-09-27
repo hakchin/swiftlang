@@ -6,5 +6,6 @@ func dan(a: Int) {
     }
 }
 for j in 2..<10{
-    dan(j)
+    dan(a: j)
 }
+

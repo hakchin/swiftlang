@@ -1,4 +1,4 @@
-func calculateStatistics(scores: [Int]) -> (min: Int, max: Int, sum: Int) {
+ calculateStatistics(scores: [Int]) -> (min: Int, max: Int, sum: Int) {
     var min = scores[0]
     var max = scores[0]
     var sum = 0
